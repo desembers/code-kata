@@ -8,6 +8,7 @@ public class 숫자비교하기 {
         int num1 = sc.nextByte();
         int num2 = sc.nextInt();
 
+
         if(num1 == num2) {
             System.out.println(1);
         }else {
